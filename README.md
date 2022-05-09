@@ -1,3 +1,3 @@
-# PlotlyDash-WealthShare
+# PlotlyDash-WealthInequality
 
 Visualizing the impact of unconventional monetary policy on wealth inequality in the US
