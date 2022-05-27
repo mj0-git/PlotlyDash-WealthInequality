@@ -88,10 +88,16 @@ Figure six shows the results contrast sharply with the Great Recession. Specific
  ## References ##
 
 [1] Emmanuel Saez, Gabriel Zucman, Wealth Inequality in the United States since 1913: Evidence from Capitalized Income Tax Data , The Quarterly Journal of Economics, Volume 131, Issue 2, May 2016, Pages 519–578, https://doi.org/10.1093/qje/qjw004 
+
 [2] Davis, Emily, "Quantitative Easing and Inequality: QE impacts on wealth and income distribution in the United States after the Great Recession" (2019). Economics Theses. 108. https://soundideas.pugetsound.edu/economics_theses/108 
+
 [3]  Igan, D., Kirti, D., & Peria, S. M. (2020). The Disconnect between Financial Markets and the Real Economy. IMF. https://www.imf.org/-/media/Files/Publications/covid19-special-notes/en-special- series-on-covid-19-the-disconnect-between-financial-markets-and-the-real-economy.ashx 
+
 [4] He, C., & Cava, G. L. (2020). The Distributional Effects of Monetary Policy: Evidence from Local Housing Markets. Reserve Bank of
 Australia. https://www.rba.gov.au/publications/rdp/2020/pdf/rdp2020-02.pdf 
+
 [5] Federal Reserve Bank, St Louis. (2022). FRED Economic Data. FRED. https://fred.stlouisfed.org/ 
+
 [6] Federal Reserve Board of Governors. (2020, March 5). Federal Reserve issues FOMC statement - March 2020 [Press release]. https://www.federalreserve.gov/newsevents/pressreleases/monetary20200315a.htm
+
 [7] Federal Reserve Bank of Dallas. (n.d.). Indexing Data to a Common Starting Point. https://www.dallasfed.org/research/basics/indexing.aspx
